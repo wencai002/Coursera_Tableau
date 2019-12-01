@@ -14,13 +14,16 @@
 ##### 3. Who. 
 * Lisa: Stakeholder. Vice president of the London Bike Sharing company.
   ###### Persona
+  *"Lisa needs to use the findings and turn them into a marketing strategy so that she can sell."*
+  * Organization --> Bike sharing company
   * She is majorly responsible for the saling and marketing department.
   * Goal --> Use sale data to understand the marketing and the customer needs. Good at selling products.
   * Challenge --> not good at statistik and math.
 * Steven: Stakeholder. CEO of the London Bike sharing company. 
-
   ###### Persona
+  *"Steven needs to get the core message within a short discussion so that he can make decisions."*
   * He and his soundboard together will attend the presentation hold by Lisa.
+  * Organization --> Bike sharing company
   * Goal --> know the company current situation and decides on the next steps.
   * Challenge --> does have enough time to listen to the report. 5 Mins is all you have. Make him understand what you are telling by     visualization.
 * Kai: SME. Writer of this report.
